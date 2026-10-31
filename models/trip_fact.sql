@@ -17,4 +17,4 @@ where RIDE_ID != 'ride_id'
 
 select
 *
-from TRIPS
+from TRIPS 
